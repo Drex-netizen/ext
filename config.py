@@ -6,7 +6,7 @@ class Config(object):
     # Telegram API ki ID
     API_ID = 27886943
     API_HASH = "db28d0dae5a57f767716f1d8865560fee"
-    ADMIN_ID = [7991495621]
+    ADMIN_ID = [6586191138]
     # MongoDB database ka URL
     DB_URL = "mongodb+srv://selara1004:Jt8IkP6UuN6eAmeN@cluster0.6ypqpjf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # Database ka naam
